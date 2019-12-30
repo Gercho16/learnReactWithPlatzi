@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/learnReactWithPlatzi/precache-manifest.839bfb87d3855ca7bb7765dca519e88c.js"
+  "/learnReactWithPlatzi/precache-manifest.b1b4b34076989dcb4788a06b70398008.js"
 );
 
 workbox.clientsClaim();

@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/learnReactWithPlatzi/static/media/badge-header.973f5842.svg"
   },
   {
-    "revision": "32e1880b2be4c1bbfdc9",
+    "revision": "559c567e2a39ded6daae",
     "url": "/learnReactWithPlatzi/static/css/main.c5522a10.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/learnReactWithPlatzi/static/media/platziconf-logo.f246f5f1.svg"
   },
   {
-    "revision": "32e1880b2be4c1bbfdc9",
-    "url": "/learnReactWithPlatzi/static/js/main.32e1880b.chunk.js"
+    "revision": "559c567e2a39ded6daae",
+    "url": "/learnReactWithPlatzi/static/js/main.559c567e.chunk.js"
   },
   {
     "revision": "d9e93b6469c794a453ff2b1c603a5f89",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/learnReactWithPlatzi/static/css/2.5d084d6a.chunk.css"
   },
   {
-    "revision": "9fb7bdf97b3073f7491dfa26b90190dc",
+    "revision": "e723072664a38e4f218a96c884736afd",
     "url": "/learnReactWithPlatzi/index.html"
   }
 ];
